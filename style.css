@@ -1,0 +1,29 @@
+/* styles.css */
+h1, #weatherResults {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#submit{
+    background-color: darkgrey;
+    border: solid 4px black;
+    border-radius: 25px;
+    padding: 60px;
+}
+p {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 50; /* Add some spacing between the title and description */
+}
+
+form {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 60px; /* Add some spacing between the title and description */
+}
+
+.border-style{
+    border: solid 4px;
+    border-radius: 25px;
+}

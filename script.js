@@ -12,7 +12,7 @@ const windSpeedDisplay = document.querySelector('#windSpeed');
 
 
 let info;
-const key = 'b2b8205a689c0964f19b22bc18a429e2'; // API key as a string
+const key = 'API_KEY'; // API key as a string
 
 
 submitBtn.addEventListener("click", (event) => {

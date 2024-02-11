@@ -1,7 +1,7 @@
   
 # Weather Application
 
-A weather application that takes user City and uses the OpenWeatherAPI to give User live weather information.
+A responsive weather application powered by the OpenWeather API, enabling users to retrieve accurate, real-time weather data for many locations.
 
 
 ## Technologies
